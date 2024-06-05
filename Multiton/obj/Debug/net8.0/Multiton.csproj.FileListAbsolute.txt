@@ -1,0 +1,15 @@
+/Users/ulasavcuk/Desktop/GraficDesignWord/Multiton/bin/Debug/net8.0/Multiton
+/Users/ulasavcuk/Desktop/GraficDesignWord/Multiton/bin/Debug/net8.0/Multiton.deps.json
+/Users/ulasavcuk/Desktop/GraficDesignWord/Multiton/bin/Debug/net8.0/Multiton.runtimeconfig.json
+/Users/ulasavcuk/Desktop/GraficDesignWord/Multiton/bin/Debug/net8.0/Multiton.dll
+/Users/ulasavcuk/Desktop/GraficDesignWord/Multiton/bin/Debug/net8.0/Multiton.pdb
+/Users/ulasavcuk/Desktop/GraficDesignWord/Multiton/obj/Debug/net8.0/Multiton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulasavcuk/Desktop/GraficDesignWord/Multiton/obj/Debug/net8.0/Multiton.AssemblyInfoInputs.cache
+/Users/ulasavcuk/Desktop/GraficDesignWord/Multiton/obj/Debug/net8.0/Multiton.AssemblyInfo.cs
+/Users/ulasavcuk/Desktop/GraficDesignWord/Multiton/obj/Debug/net8.0/Multiton.csproj.CoreCompileInputs.cache
+/Users/ulasavcuk/Desktop/GraficDesignWord/Multiton/obj/Debug/net8.0/Multiton.sourcelink.json
+/Users/ulasavcuk/Desktop/GraficDesignWord/Multiton/obj/Debug/net8.0/Multiton.dll
+/Users/ulasavcuk/Desktop/GraficDesignWord/Multiton/obj/Debug/net8.0/refint/Multiton.dll
+/Users/ulasavcuk/Desktop/GraficDesignWord/Multiton/obj/Debug/net8.0/Multiton.pdb
+/Users/ulasavcuk/Desktop/GraficDesignWord/Multiton/obj/Debug/net8.0/Multiton.genruntimeconfig.cache
+/Users/ulasavcuk/Desktop/GraficDesignWord/Multiton/obj/Debug/net8.0/ref/Multiton.dll
