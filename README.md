@@ -31,3 +31,23 @@
 # Призначення Messaging полягає в тому, щоб знизити повʼязаність обʼєктів, відокремивши їх функціональність та дозволяючи їм взаємодіяти через повідомлення. Кожен об'єкт може відправляти повідомлення іншим об'єктам та обробляти отримані повідомлення.
 
 # Переваги Messaging: Знижує  повʼязаність обʼєктів; Дозволяє створювати більш гнучкі та розширені системи; Підвищує масштабність, оскільки дозволяє легко додавати нові об'єкти та взаємодіяти з існуючими.
+
+
+
+# Перелік Публікацій:
+
+- Mermaid Diagramming and charting tool [Електронний ресурс] – Режим доступу: https://mermaid.js.org/intro/ .
+
+- Messaging Patterns - A Comprehensive Guide For Software Developers [Електронний ресурс] – Режим доступу: https://www.c-sharpcorner.com/blogs/messaging-patterns-101-a-comprehensive-guide-for-software-developers
+
+- Creational patterns [Електронний ресурс] – Режим доступу: https://sourcemaking.com/design_patterns/creational_patterns
+
+- Adapter Design Pattern [Електронний ресурс] – Режим доступу: https://sourcemaking.com/design_patterns/adapter
+
+- What is the Multiton Design Pattern? [Електронний ресурс] – Режим доступу: https://justgokus.medium.com/what-is-the-multiton-design-pattern-eeeb5dd8bc7d
+
+
+- Servant [Електронний ресурс] – Режим доступу: https://java-design-patterns.com/patterns/servant/
+
+- What is the Servant Design Pattern? [Електронний ресурс] – Режим доступу: https://justgokus.medium.com/what-is-the-servant-design-pattern-fb5aeee6327f
+- DESIGN PATTERNS [Електронний ресурс] – Режим доступу: https://refactoring.guru/design-patterns
