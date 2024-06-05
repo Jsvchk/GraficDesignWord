@@ -1,0 +1,15 @@
+/Users/ulasavcuk/Desktop/GraficDesignWord/Adapter01/obj/Debug/net8.0/Adapter01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulasavcuk/Desktop/GraficDesignWord/Adapter01/obj/Debug/net8.0/Adapter01.AssemblyInfoInputs.cache
+/Users/ulasavcuk/Desktop/GraficDesignWord/Adapter01/obj/Debug/net8.0/Adapter01.AssemblyInfo.cs
+/Users/ulasavcuk/Desktop/GraficDesignWord/Adapter01/obj/Debug/net8.0/Adapter01.csproj.CoreCompileInputs.cache
+/Users/ulasavcuk/Desktop/GraficDesignWord/Adapter01/obj/Debug/net8.0/Adapter01.sourcelink.json
+/Users/ulasavcuk/Desktop/GraficDesignWord/Adapter01/bin/Debug/net8.0/Adapter01
+/Users/ulasavcuk/Desktop/GraficDesignWord/Adapter01/bin/Debug/net8.0/Adapter01.deps.json
+/Users/ulasavcuk/Desktop/GraficDesignWord/Adapter01/bin/Debug/net8.0/Adapter01.runtimeconfig.json
+/Users/ulasavcuk/Desktop/GraficDesignWord/Adapter01/bin/Debug/net8.0/Adapter01.dll
+/Users/ulasavcuk/Desktop/GraficDesignWord/Adapter01/bin/Debug/net8.0/Adapter01.pdb
+/Users/ulasavcuk/Desktop/GraficDesignWord/Adapter01/obj/Debug/net8.0/Adapter01.dll
+/Users/ulasavcuk/Desktop/GraficDesignWord/Adapter01/obj/Debug/net8.0/refint/Adapter01.dll
+/Users/ulasavcuk/Desktop/GraficDesignWord/Adapter01/obj/Debug/net8.0/Adapter01.pdb
+/Users/ulasavcuk/Desktop/GraficDesignWord/Adapter01/obj/Debug/net8.0/Adapter01.genruntimeconfig.cache
+/Users/ulasavcuk/Desktop/GraficDesignWord/Adapter01/obj/Debug/net8.0/ref/Adapter01.dll
