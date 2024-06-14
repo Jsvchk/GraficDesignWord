@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Multiton")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72c67b23373862f0fb31c942fa8cc6b1e914f085")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51f07a1a70dfb9d2046f19aae75d160d9e985f40")]
 [assembly: System.Reflection.AssemblyProductAttribute("Multiton")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Multiton")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

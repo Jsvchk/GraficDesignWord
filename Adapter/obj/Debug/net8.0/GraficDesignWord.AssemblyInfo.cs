@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GraficDesignWord")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2c5b22e1284a44e54d627d1881227d2a3afdf1d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51f07a1a70dfb9d2046f19aae75d160d9e985f40")]
 [assembly: System.Reflection.AssemblyProductAttribute("GraficDesignWord")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GraficDesignWord")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
